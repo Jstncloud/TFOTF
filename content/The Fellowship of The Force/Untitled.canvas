@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"faab086fdc019079","x":-117,"y":-173,"width":400,"height":400,"type":"file","file":"Sessions/Java Is Helping.md"},
+		{"id":"c22e9faa09e6a4dd","x":-380,"y":-760,"width":326,"height":400,"type":"file","file":"Assets/Port Moors Map_Obsidian.jpg"}
+	],
+	"edges":[
+		{"id":"05da0f3881fa3011","fromNode":"c22e9faa09e6a4dd","fromSide":"bottom","toNode":"faab086fdc019079","toSide":"top"}
+	]
+}
