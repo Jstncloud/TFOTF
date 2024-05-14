@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "jstncloud.github.io/TFOTF",
+    baseUrl: "github.com/Jstncloud/TFOTF/tree/v4/content/The%20Fellowship%20of%20The%20Force",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
