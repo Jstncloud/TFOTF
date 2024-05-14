@@ -1,4 +1,4 @@
 
-| ![[https://cdn.discordapp.com/attachments/378987800931860491/1239783859323932693/Java.png?ex=66442e32&is=6642dcb2&hm=63fa50eb4081980c0f9129427bbe326ebc2d6ce1150e67df65c666386e2fd41a&]] | Java Ain't Not Newb! |
+| ![[https://cdn.discordapp.com/attachments/378987800931860491/1239783859323932693/Java.png]] | Java Ain't Not Newb! |
 | ----------------------------------------------------------------------------------------------------------- | -------------------- |
 |                                                                                                             |                      |
