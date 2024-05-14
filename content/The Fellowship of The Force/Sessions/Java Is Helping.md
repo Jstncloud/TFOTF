@@ -1,4 +1,4 @@
 
-| ![[Assets/Java.png]] | Java Ain't Not Newb 2! |
+| ![[Java.png]] | Java Ain't Not Newb 2! |
 | -------------------- | ---------------------- |
 |                      |                        |
